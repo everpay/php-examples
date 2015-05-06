@@ -1,6 +1,6 @@
 <?php
 
-$url = "http://localhost/api/";
+$url = "https://everpayinc.com/api/";
 
 $post_string = '<?xml version="1.0" encoding="UTF-8"?>
 <request>
